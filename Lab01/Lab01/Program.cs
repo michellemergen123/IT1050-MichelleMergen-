@@ -4,12 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Hello World
-using System;
-class Solution
+namespace Lab01
 {
-    static void Main(String[] args)
+    class Program
     {
-        Console.WriteLine("Hello World from Michelle Mergen!");
+        static void Main()
+        {
+            Console.WriteLine("Hello World From Michelle Mergen");
+            Console.WriteLine("Press any key to exit");
+            Console.ReadKey();
+}
     }
 }
