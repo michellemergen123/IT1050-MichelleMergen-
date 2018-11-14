@@ -27,7 +27,7 @@ namespace temperature
                 Console.Write("It is hot");
 
 
-                Console.ReadLine();
+                Console.ReadLine():
             }
         }
     }
