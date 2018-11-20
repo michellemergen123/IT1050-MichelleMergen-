@@ -12,8 +12,9 @@ using System.Threading.Tasks;
             static void Main(string[] args)
             {
 
-                for (int i = 10; i <= 20; i += 2)
-                {
+
+            for (int i = 10; i <= 20; i+=2)
+            {
                     Console.WriteLine(i);
 
                 }
