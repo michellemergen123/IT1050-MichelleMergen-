@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fido
+namespace Lab6_number_5_1000_elements
 {
-    class Labpractice
+    class Program
     {
-
-
         static void Main(string[] args)
         {
             int[] randomNum = new int[1000];
