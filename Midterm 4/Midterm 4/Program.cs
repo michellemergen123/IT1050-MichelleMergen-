@@ -4,23 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mid_Term_6
+namespace Midterm_4
 {
     class Program
     {
+
+
         static void Main(string[] args)
         {
-            int i = 1;
-            while (i <= 21)
+            int i = 2;
+            while (i < 128)
             {
-                Console.Write(" {0}", i);
-                i++; i = i + 1;
+                Console.WriteLine("[{0}]", ++i);
+                i *= i * 2;
+
+
+
+
+
+
+
+
             }
-            Console.ReadKey();
         }
     }
-    
 }
-
-
-

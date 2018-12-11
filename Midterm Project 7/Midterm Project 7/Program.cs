@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Midterm_Project_7
+    //output is *.  The do while outputs the same * but the while loop doesn't output anything.
 {
     class Program
     {

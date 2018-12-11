@@ -20,6 +20,7 @@ namespace Midterm_Project_8
                 Console.ReadKey();
             }
         }
+        //You can combine multiple Boolean values by using Boolean operators which compute new true/false values.
     }
 
 }
