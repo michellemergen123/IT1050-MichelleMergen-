@@ -15,8 +15,8 @@ namespace Midterm_4
             int i = 2;
             while (i < 128)
             {
-                Console.WriteLine("[{0}]", ++i);
-                i *= i * 2;
+                Console.WriteLine("[{0}]", i++);
+                i *= 2;
 
 
 
